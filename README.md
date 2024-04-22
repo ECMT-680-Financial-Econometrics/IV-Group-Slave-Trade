@@ -52,7 +52,7 @@ This repository contains our analysis of the study "The Long Term Effects of Afr
 This repository includes:
 
 1.  The ReadMe file.
-2.  The data: (slave_trade_QJE_New_Data.xlsx). This xlsx file includes not only the variables from the original dataset but also adds new variables that represent the log GDP for the period 2001 - 2022 and an average of GDP the same period.
+2.  The data: (slave_trade_QJE_New_Data.csv). This CSV file includes not only the variables from the original dataset but also adds new variables that represent the log GDP for the period 2001 - 2022 and an average of GDP for the same period.
 3. The replication code of the original paper in Python and HTML versions. The replication uses the original varibles and the variables added.
 4. The code used to create a more precise analysis, through Double Lasso, of the impact of the slave trade exposure on the current economic outcomes in African countries. Python and HTML versions are available
 5. A template of the presentation of the analysis.
