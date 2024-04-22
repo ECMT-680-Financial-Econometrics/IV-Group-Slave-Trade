@@ -15,6 +15,8 @@ This analysis utilizes shipping records and historical documents to estimate the
 
 The findings reveal a significant negative relationship between the number of slaves exported from African countries during the slave trades and their current economic development. Those demonstrate that regions most affected by the slave trades are among the poorest today.
 
+The study can be found in this link: https://www.jstor.org/stable/25098896
+
 ## Instrumental Variable using Machine Learning
 
 ### Method
@@ -45,7 +47,13 @@ Covariates: A wide range of covariates including historical data (e.g., pre-slav
 
 This repository contains our analysis of the study "The Long Term Effects of Africa's Slave Trade."
 
-This repository includes the code we used to create a more precise analysis of the impact of the slave trade exposure on the current economic outcomes in African countries. 
+This repository includes:
 
-The data is provided (slave_trade_QJE_updated.xlsx).
+1.  The ReadMe file.
+2.  The data: (slave_trade_QJE_New_Data.xlsx). This xlsx file includes not only the variables from the original dataset but also adds new variables that represent the log GDP for the period 2001 - 2022 and an average of GDP the same period.
+3. The replication code of the original paper in Python and HTML versions. The replication uses the original varibles and the variables added.
+4. The code used to create a more precise analysis, through Double Lasso, of the impact of the slave trade exposure on the current economic outcomes in African countries. Python and HTML versions are available
+5. A template of the presentation of the analysis.
+6. A complete report of the analysis.
+
 
