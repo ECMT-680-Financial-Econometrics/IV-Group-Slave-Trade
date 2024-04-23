@@ -15,9 +15,11 @@ This analysis utilizes shipping records and historical documents to estimate the
 
 The findings reveal a significant negative relationship between the number of slaves exported from African countries during the slave trades and their current economic development. Those demonstrate that regions most affected by the slave trades are among the poorest today.
 
-**The article can be found in this link:** https://www.jstor.org/stable/25098896
+**The article can be found here:** https://www.jstor.org/stable/25098896
 
 **The dataset of the paper can be found here:** https://nathannunn.arts.ubc.ca/data/
+
+**The replication of this study can be found here:** https://colab.research.google.com/drive/19Rc1VzFgVn_KXGHygORPp26AeBBzToUl#scrollTo=KIyK8PmmytZ8
 
 ## Instrumental Variable using Machine Learning
 
