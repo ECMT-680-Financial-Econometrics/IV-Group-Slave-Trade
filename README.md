@@ -57,7 +57,9 @@ This repository includes:
 2.  The data: (slave_trade_QJE_New_Data.csv). This CSV file includes not only the variables from the original dataset but also adds new variables that represent the log of the real GDP for the period 2001 - 2022 and an average of GDP for the same period.
 3. The replication code of the original paper in Python and HTML versions. The replication uses the original varibles and the variables added.
 4. The code used to create a more precise analysis, through Double Lasso, of the impact of the slave trade exposure on the current economic outcomes in African countries. 
-5. A poster presentation of the analysis. The Overleaf poster can be found here: https://www.overleaf.com/2159465842gbgrnnrtjrht#acaf55  
+5. A poster presentation of the analysis.
+
+   **The Overleaf poster can be found here:** https://www.overleaf.com/2159465842gbgrnnrtjrht#acaf55  
 7. A complete report of the analysis.
 
 
