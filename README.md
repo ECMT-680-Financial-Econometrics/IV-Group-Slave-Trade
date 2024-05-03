@@ -56,10 +56,10 @@ This repository includes:
 
 ## Important Links
 
-**The article can be found here:** https://www.jstor.org/stable/25098896
+The article can be found here: https://www.jstor.org/stable/25098896
 
-**The dataset of the paper can be found here:** https://nathannunn.arts.ubc.ca/data/
+The dataset of the paper can be found here: https://nathannunn.arts.ubc.ca/data/
 
-**The replication of this study can be found here:** https://colab.research.google.com/drive/19Rc1VzFgVn_KXGHygORPp26AeBBzToUl#scrollTo=KIyK8PmmytZ8
+The replication of this study can be found here: https://colab.research.google.com/drive/19Rc1VzFgVn_KXGHygORPp26AeBBzToUl#scrollTo=KIyK8PmmytZ8
 
-**The Overleaf poster can be found here:** https://www.overleaf.com/2159465842gbgrnnrtjrht#acaf55  
+The Overleaf poster can be found here: https://www.overleaf.com/2159465842gbgrnnrtjrht#acaf55  
