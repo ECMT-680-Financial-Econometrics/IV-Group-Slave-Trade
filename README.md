@@ -15,12 +15,6 @@ This analysis utilizes shipping records and historical documents to estimate the
 
 The findings reveal a significant negative relationship between the number of slaves exported from African countries during the slave trades and their current economic development. Those demonstrate that regions most affected by the slave trades are among the poorest today.
 
-**The article can be found here:** https://www.jstor.org/stable/25098896
-
-**The dataset of the paper can be found here:** https://nathannunn.arts.ubc.ca/data/
-
-**The replication of this study can be found here:** https://colab.research.google.com/drive/19Rc1VzFgVn_KXGHygORPp26AeBBzToUl#scrollTo=KIyK8PmmytZ8
-
 ## Instrumental Variable using Machine Learning
 
 ### Method
@@ -58,8 +52,14 @@ This repository includes:
 3. The replication code of the original paper in Python and HTML versions. The replication uses the original varibles and the variables added.
 4. The code used to create a more precise analysis, through Double Lasso, of the impact of the slave trade exposure on the current economic outcomes in African countries. 
 5. A poster presentation of the analysis.
+6. A complete report of the analysis.
 
-   **The Overleaf poster can be found here:** https://www.overleaf.com/2159465842gbgrnnrtjrht#acaf55  
-7. A complete report of the analysis.
+## Important Links
 
+**The article can be found here:** https://www.jstor.org/stable/25098896
 
+**The dataset of the paper can be found here:** https://nathannunn.arts.ubc.ca/data/
+
+**The replication of this study can be found here:** https://colab.research.google.com/drive/19Rc1VzFgVn_KXGHygORPp26AeBBzToUl#scrollTo=KIyK8PmmytZ8
+
+**The Overleaf poster can be found here:** https://www.overleaf.com/2159465842gbgrnnrtjrht#acaf55  
